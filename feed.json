@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Arbor Lodge Tree Team",
     "description": "",
-    "home_page_url": "https://skokefoe.github.io/arborlodgetrees",
-    "feed_url": "https://skokefoe.github.io/arborlodgetrees/feed.json",
+    "home_page_url": "https://arborlodgetrees.org",
+    "feed_url": "https://arborlodgetrees.org/feed.json",
     "user_comment": "",
     "author": {
         "name": "Arbor Lodge Tree Team"

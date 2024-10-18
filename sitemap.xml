@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://skokefoe.github.io/arborlodgetrees/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://arborlodgetrees.org/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://skokefoe.github.io/arborlodgetrees/</loc>
+<loc>https://arborlodgetrees.org/</loc>
 </url>
 <url>
-<loc>https://skokefoe.github.io/arborlodgetrees/about-the-team/</loc>
+<loc>https://arborlodgetrees.org/about-the-team/</loc>
 <lastmod>2024-10-17T17:06:36-07:00</lastmod>
 </url>
 <url>
-<loc>https://skokefoe.github.io/arborlodgetrees/arbor-lodge-tree-team-resources/</loc>
+<loc>https://arborlodgetrees.org/arbor-lodge-tree-team-resources/</loc>
 <lastmod>2024-10-17T17:13:29-07:00</lastmod>
 </url>
 <url>
-<loc>https://skokefoe.github.io/arborlodgetrees/north-portland-tree-bike-rides/</loc>
+<loc>https://arborlodgetrees.org/north-portland-tree-bike-rides/</loc>
 <lastmod>2024-10-17T17:01:35-07:00</lastmod>
 </url>
 <url>
-<loc>https://skokefoe.github.io/arborlodgetrees/the-fruit-tree-giveaway/</loc>
+<loc>https://arborlodgetrees.org/the-fruit-tree-giveaway/</loc>
 <lastmod>2024-10-17T16:15:01-07:00</lastmod>
 </url>
 </urlset>
